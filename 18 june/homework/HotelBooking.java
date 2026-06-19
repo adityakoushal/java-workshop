@@ -1,0 +1,1 @@
+class HotelBooking { private String guestName; private double roomPricePerNight; private int numberOfNights; }

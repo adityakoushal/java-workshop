@@ -1,0 +1,1 @@
+class ElectricityBill { private String customerName; private int unitsConsumed; private double pricePerUnit; }

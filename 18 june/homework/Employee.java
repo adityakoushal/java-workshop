@@ -1,0 +1,1 @@
+class Employee { private String employeeName; private double salary; private int yearsOfService; }

@@ -1,0 +1,1 @@
+class Ride { private String customerName; private double distanceTravelled,pricePerKm,surgeMultiplier; }

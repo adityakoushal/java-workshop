@@ -1,0 +1,1 @@
+class LibraryBook { private String bookName; private int daysLate; private double finePerDay; }

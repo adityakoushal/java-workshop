@@ -1,0 +1,1 @@
+class StudentResult { private String studentName; private int mathMarks,scienceMarks,englishMarks; }
